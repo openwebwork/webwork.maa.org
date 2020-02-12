@@ -9,6 +9,7 @@ Applications which are managed on webwork.maa.org include
 * Request Tracker (RT) which manages tickets for setting up courses and other maintenance
 * Mailman -- which hosts the development list [ww-devel] and the bug report list [ww-bugs]
 * Bugzilla -- which hosts the bug reports
+* Blog aggregator
 
 Important infrastructure
 * postfix (sendmail replacement) -- used by bugzilla, mediawiki (and also moodle?)
