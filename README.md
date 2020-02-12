@@ -10,6 +10,10 @@ Applications which are managed on webwork.maa.org include
 * Mailman -- which hosts the development list [ww-devel] and the bug report list [ww-bugs]
 * Bugzilla -- which hosts the bug reports
 
-Other applications which are managed separately are 
+Important infrastructure
+* postfix (sendmail replacement) -- used by bugzilla, mediawiki (and also moodle?)
+* certificates -- so that the mail is not bounced by post offices.
+
+Other applications which are for now managed separately on other boxes are 
 * WeBWorK installation sites, managed with Google spreadsheet and google maps hosted on TWP's google drive
 * The POD documentation currently maintained on demo.webwork.rochester.edu
