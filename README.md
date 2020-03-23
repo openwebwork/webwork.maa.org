@@ -15,7 +15,7 @@ Applications which are managed on webwork.maa.org include
 * Mailman -- which hosts the development list [ww-devel] and the bug report list [ww-bugs]  (these mail lists no longer exist)
   * Archives for the list-serves through February 2020 are available at https://webwork.maa.org/mailman_archives/archives/public/
 * Bugzilla -- which hosts the bug reports for PG problems:  https://bugs.webwork.maa.org
-* Blog posts (planet) -- 
+* Blog posts (planet) -- needs to be reset.
 
 Other applications which are managed separately are 
 * WeBWorK installation sites, managed with Google spreadsheet and google maps hosted on TWP's google drive
